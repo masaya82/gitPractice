@@ -1,3 +1,0 @@
-hello world!`
-Do you know git?
-I may understand git.
